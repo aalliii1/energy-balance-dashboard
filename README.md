@@ -2,8 +2,7 @@
 
 An interactive, bilingual (Arabic / English) dashboard for exploring Palestine's national energy balance, built during a data analysis internship at the **Palestinian Central Bureau of Statistics (PCBS)**.
 
-**Live demo:** _coming soon_
-
+   **Live demo:** [palestine-energy-dashboard.streamlit.app](https://palestine-energy-dashboard.streamlit.app)
 ![Dashboard screenshot](screenshot.png)
 
 ## What it does
